@@ -5,3 +5,4 @@ Done:
 - Clustering
 - Linear
 - Trees
+- Svm

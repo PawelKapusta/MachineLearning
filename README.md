@@ -6,3 +6,4 @@ Done:
 - Linear
 - Trees
 - Svm
+- ensemble

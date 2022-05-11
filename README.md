@@ -7,3 +7,4 @@ Done:
 - Trees
 - Svm
 - ensemble
+- nlp
